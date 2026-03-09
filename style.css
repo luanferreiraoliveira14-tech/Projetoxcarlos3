@@ -6,9 +6,6 @@ header nav{
     background-color: rgb(97, 22, 22);
     padding: 1rem;
 }
-header a{
-    color: rgb(255, 220, 167);
-}
 nav ul{
     list-style-type: none;
     margin: 0;
@@ -18,9 +15,8 @@ nav ul{
 }
 nav ul li{
     display: inline;
-    color: rgb(255, 220, 167);
 }
-nav ul li a{
+nav ul li a {
     text-decoration: none;
     padding: 0.5rem 1rem;
     font-size: large;
@@ -70,5 +66,6 @@ footer h2{
 footer h3{
     color: rgb(255, 220, 167);
 }
+
 
 
