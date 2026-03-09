@@ -15,11 +15,13 @@ nav ul{
 }
 nav ul li{
     display: inline;
+    color: rgb(255, 220, 167);
 }
 nav ul li a{
     text-decoration: none;
     padding: 0.5rem 1rem;
     font-size: large;
+    color: rgb(255, 220, 167);
 
 }
 nav ul li:hover{
@@ -60,7 +62,9 @@ footer a{
 }
 footer h2{
     color: rgb(255, 220, 167);
+    font-size: large;
 }
 footer h3{
     color: rgb(255, 220, 167);
 }
+
