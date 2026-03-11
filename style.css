@@ -61,15 +61,16 @@ footer a{
 }
 footer h2{
     color: rgb(255, 220, 167);
-    font-size: large;
+    font-size: larger;
 }
 footer h3{
     color: rgb(255, 220, 167);
 }
 body p{
-    text-aling:center;
-    font-size:big
+    text-aling: 50%;
+    font-size:large;
 }
+
 
 
 
