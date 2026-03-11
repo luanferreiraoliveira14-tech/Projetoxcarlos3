@@ -45,9 +45,6 @@ body{
     background-color: rgb(255, 220, 167);
     color: rgb(146, 36, 36);
 }
-body ul li{
-    text-decoration: dotted;
-}
 footer{
     background-color: rgb(146, 36, 36);
     
@@ -61,7 +58,7 @@ footer a{
 }
 footer h2{
     color: rgb(255, 220, 167);
-    font-size: 240%;
+    font-size: 140%;
 }
 footer h3{
     color: rgb(255, 220, 167);
@@ -69,8 +66,9 @@ footer h3{
 }
 body h6{
     text-aling: center;
-    font-size: 18;
+    font-size: 1;
 }
+
 
 
 
