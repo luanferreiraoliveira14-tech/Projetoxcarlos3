@@ -58,16 +58,17 @@ footer a{
 }
 footer h2{
     color: rgb(255, 220, 167);
-    font-size: 240%;
+    font-size: 18;
 }
 footer h3{
     color: rgb(255, 220, 167);
-    font-size: 160%;
+    font-size: 14;
 }
 body h6{
     text-aling: center;
-    font-size: 10;
+    font-size: 20;
 }
+
 
 
 
