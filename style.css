@@ -56,20 +56,22 @@ footer{
 footer a{
      text-decoration-line: none;
     color: rgb(255, 220, 167);
-    font-size: larger;
+    font-size: 160%;
 
 }
 footer h2{
     color: rgb(255, 220, 167);
-    font-size: larger;
+    font-size: 240%;
 }
 footer h3{
     color: rgb(255, 220, 167);
+    font-size: 160%;
 }
-body p{
-    text-aling: 50%;
-    font-size:large;
+body h6{
+    text-aling: center;
+    font-size: 200%;
 }
+
 
 
 
