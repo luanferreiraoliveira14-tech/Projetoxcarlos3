@@ -71,9 +71,12 @@ body ul li{
     font-size:big
 }
 body ul{
-    text-aling:center;
+    display: flex;
+    aling-items:center;
+    justify-content: center;
     font-size:big
 }
+
 
 
 
