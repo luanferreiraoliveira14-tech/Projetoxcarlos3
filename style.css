@@ -45,12 +45,9 @@ body{
     background-color: rgb(255, 220, 167);
     color: rgb(146, 36, 36);
 }
-body ul li{
-    text-decoration: dotted;
 }
 footer{
     background-color: rgb(146, 36, 36);
-    
     text-align: center;
 }
 footer a{
@@ -71,9 +68,7 @@ footer a{
 footer h3{
     color: rgb(255, 220, 167);
 }
-body ul li{
-    font-size:big
-}
+
 
 
 
