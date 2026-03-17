@@ -63,6 +63,11 @@ footer a{
     color: rgb(255, 220, 167);
     font-size: larger;
 }
+.texto {
+    background-color: rgb(255, 220, 167);
+    color: rgb(146, 36, 36);
+    text-decoration: none;
+}
 footer h3{
     color: rgb(255, 220, 167);
 }
